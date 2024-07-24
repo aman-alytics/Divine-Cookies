@@ -1,4 +1,4 @@
-# Divine Cookies (Pure Delight) Sales Report
+# Divine Cookies _Pure Delight_ Sales Report
 
 <img src="https://github.com/user-attachments/assets/f61bf8d8-565a-4fc8-81b6-ffa54ee3bc5c" width="100">
 
