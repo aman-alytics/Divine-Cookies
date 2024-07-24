@@ -24,7 +24,8 @@ A card on the dashboard displays the total sales of $34 million. Detailed financ
 
 ### Sales by Start of Month
 
-![Sales by Start of Month](https://yourimagelink.com/sales_by_month.png)
+<img src="https://github.com/user-attachments/assets/5bf3d5a6-11e4-435b-8412-d1125f340955" width="4000">
+
 
 This line chart visualization depicts sales by the start of each month, providing insights into monthly sales trends. A tooltip feature is added to this chart to check for monthly sales by country, allowing for a detailed breakdown of sales performance.
 
