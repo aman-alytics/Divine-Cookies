@@ -43,7 +43,6 @@ On the right side of the dashboard, a table displays data about salespersons, wh
 
 On the left side of the dashboard, slides include:
 
-- **Cookies Company Logo**: Branding element.
 - **Category Analysis**: Slide providing insights into sales performance by product category.
 - **Geolocation Analysis**: Slide depicting sales distribution across six countries.
 
