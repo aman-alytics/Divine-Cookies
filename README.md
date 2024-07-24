@@ -1,6 +1,6 @@
 # Divine Cookies Sales Report
 
-<img src="https://github.com/user-attachments/assets/f61bf8d8-565a-4fc8-81b6-ffa54ee3bc5c" width="100"> _pure delight_
+<img src="https://github.com/user-attachments/assets/f61bf8d8-565a-4fc8-81b6-ffa54ee3bc5c" width="100">     _...pure delight_
 
 Explore insightful sales analysis of Divine Cookies with comprehensive data and visualizations. Gain valuable insights into sales trends, customer behavior, and more. Dive into the data-driven world of retail with our analysis.
 
