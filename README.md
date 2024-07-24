@@ -1,12 +1,13 @@
-# Divine Cookies _Pure Delight_ Sales Report
+# Divine Cookies Sales Report
 
-<img src="https://github.com/user-attachments/assets/f61bf8d8-565a-4fc8-81b6-ffa54ee3bc5c" width="100">
+<img src="https://github.com/user-attachments/assets/f61bf8d8-565a-4fc8-81b6-ffa54ee3bc5c" width="100"> _pure delight_
 
 Explore insightful sales analysis of Divine Cookies with comprehensive data and visualizations. Gain valuable insights into sales trends, customer behavior, and more. Dive into the data-driven world of retail with our analysis.
 
 ## Project Overview
 
-
+<img src="![Divine Cookies Sales Dashbaord Page1](https://github.com/user-attachments/assets/ae542c49-985c-4160-b6aa-83629e3e3be8)
+" width="400">
 
 This visualization provides an overview of the project, which involves conducting a sales analysis of Divine Cookies. The analysis includes key performance indicators (KPIs) and measures such as total sales, cost and profit, shipment details, and profit targets. Additionally, Excel data was used and visualized using Power BI, then published to the Fabric workspace. This slide sets the stage for the project and highlights its key components.
 
