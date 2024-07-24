@@ -6,8 +6,7 @@ Explore insightful sales analysis of Divine Cookies with comprehensive data and 
 
 ## Project Overview
 
-<img src="![Divine Cookies Sales Dashbaord Page1](https://github.com/user-attachments/assets/ae542c49-985c-4160-b6aa-83629e3e3be8)
-" width="400">
+<img src="https://github.com/user-attachments/assets/ae542c49-985c-4160-b6aa-83629e3e3be8" width="400">
 
 This visualization provides an overview of the project, which involves conducting a sales analysis of Divine Cookies. The analysis includes key performance indicators (KPIs) and measures such as total sales, cost and profit, shipment details, and profit targets. Additionally, Excel data was used and visualized using Power BI, then published to the Fabric workspace. This slide sets the stage for the project and highlights its key components.
 
