@@ -31,7 +31,7 @@ This line chart visualization depicts sales by the start of each month, providin
 
 ### Total Shipment by Boxes
 
-![Total Shipment by Boxes](https://yourimagelink.com/shipments_by_boxes.png)
+<img src="https://github.com/user-attachments/assets/4a69e73a-4dd1-4218-b858-78e699887f7d" width="4000">
 
 This stacked column chart shows total shipments by boxes. A card in the top right corner of the chart displays the LBS percentage with the target, offering insights into shipment efficiency and performance.
 
